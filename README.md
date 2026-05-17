@@ -172,8 +172,8 @@ Mesmo assim, a abordagem se mostrou funcional para o objetivo proposto.
 
 ---
 
-## Por fim
+## Considerações finais
 
 O projeto atende aos requisitos do desafio e demonstra uma abordagem completa para um problema simples de busca semântica, passando por limpeza textual, representação vetorial e recuperação de informação.
 
-Foi uma experiência interessante para aplicar conceitos de NLP de forma prática em um contexto econômico.
+Foi uma experiência interessante para aplicar conceitos de NLP e recuperação de informação em um contexto econômico.
