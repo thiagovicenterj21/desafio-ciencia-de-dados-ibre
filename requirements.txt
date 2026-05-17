@@ -1,0 +1,5 @@
+pandas
+numpy
+beautifulsoup4
+sentence-transformers
+scikit-learn
